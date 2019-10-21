@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88721532-23d8-4eac-a1e6-c34c76adab5d" name="Default Changelist" comment="">
+    <list default="true" id="88721532-23d8-4eac-a1e6-c34c76adab5d" name="Default Changelist" comment="make it better">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,8 @@
       <updated>1570232186743</updated>
       <workItem from="1570232188119" duration="1810000" />
       <workItem from="1571628481602" duration="909000" />
-      <workItem from="1571629455103" duration="429000" />
+      <workItem from="1571629455103" duration="853000" />
+      <workItem from="1571630321356" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1570233235536</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571629798235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="make it better">
+      <created>1571629910135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571629910135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
